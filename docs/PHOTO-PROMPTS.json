@@ -1,0 +1,66 @@
+{
+  "mode": "built-in image_gen",
+  "note": "AI-generated illustrative people and interiors; not photographs of actual clinic staff or patients.",
+  "images": [
+    {
+      "name": "journal-hero",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. Close-up editorial portrait of a joyful South Asian woman around 40 in cream linen, candid natural smile, warmly lit terracotta plaster backdrop, portrait framed on right with soft neutral negative space on left. Authentic skin texture, not glossy cosmetic advertising.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-0262b2b3-5b4d-42b4-8f52-b071cb45d050.png",
+      "destination": "assets/images/journal-hero.webp"
+    },
+    {
+      "name": "journal-arrival",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. An inviting contemporary dental clinic reception corridor, curved walnut desk, arched cream plaster doorway, terracotta upholstered bench, soft slanting morning sunlight, architectural interior photography, no people.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-3c76301d-0bf9-44e4-8d59-f7373383b194.png",
+      "destination": "assets/images/journal-arrival.webp"
+    },
+    {
+      "name": "journal-questions",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. Candid side view of a female dental clinician in ivory uniform listening to an older male patient seated across a small round wood consultation table, relaxed eye contact, warm private consultation room, medium wide crop.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-0ae4d6ae-d949-44b8-8199-0f210f9bd41d.png",
+      "destination": "assets/images/journal-questions.webp"
+    },
+    {
+      "name": "journal-comfort",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. A relaxed young adult woman wearing oatmeal sweater sitting beside a tall window in a warm clinic lounge, holding a ceramic cup, soft contemplative smile, tactile neutral upholstery, candid three-quarter view.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-bc4f98ea-94b0-4664-a57a-36695680082f.png",
+      "destination": "assets/images/journal-comfort.webp"
+    },
+    {
+      "name": "journal-plan",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. Close-up naturally positioned hands of a clinician and adult patient discussing a simple white dental model on an oak desk, blank paper notebook and pencil nearby, no readable text, warm natural light, accurate human hands.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-c45f3fc0-1acf-41e1-88b8-642c41090d74.png",
+      "destination": "assets/images/journal-plan.webp"
+    },
+    {
+      "name": "journal-family",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. A father and school-age daughter sitting together on a terracotta bench in a welcoming dental reception, sharing a relaxed smile, cream clothing, candid documentary photograph, framed waist up.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-11c9622e-887b-44c6-b4f6-fbb2a5854866.png",
+      "destination": "assets/images/journal-family.webp"
+    },
+    {
+      "name": "journal-smile",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. Editorial close portrait of a smiling East Asian man in his thirties, cream knit shirt, natural teeth and authentic skin, soft beige backdrop, angled daylight, relaxed candid expression.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-da0e3bbc-5669-43fd-b23e-668a75682b80.png",
+      "destination": "assets/images/journal-smile.webp"
+    },
+    {
+      "name": "team-clinical",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. Portrait of a friendly female South Asian dental clinician around 35 in clean ivory scrubs, standing in a warm modern dental treatment room with softly blurred dental chair, hands out of frame, natural smile, framed waist up.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-f1458f3d-8f44-4b9d-8c97-b7b9076b802a.png",
+      "destination": "assets/images/team-clinical.webp"
+    },
+    {
+      "name": "team-coordinator",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. A smiling Black female care coordinator in a sandstone blouse seated at a walnut reception desk, closed appointment notebook and understated computer to the side, warm dental clinic, candid professional portrait, framed waist up.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-34b933ea-2965-4f62-a8e2-06690e38a16b.png",
+      "destination": "assets/images/team-coordinator.webp"
+    },
+    {
+      "name": "team-support",
+      "prompt": "Use case: photorealistic-natural. Asset: unique editorial photograph for a premium dental clinic website, landscape 4:3 composition. Natural realistic people and anatomy, sophisticated warm ivory, sandstone and terracotta interior, natural window light, subtle film texture, premium magazine photography. No blue or green decor, no text, lettering, logo, watermark or collage. A friendly male dental assistant of Mediterranean appearance in muted taupe scrubs arranging folded clean towels in a softly lit clinic preparation area, warm ivory cabinetry, candid three-quarter portrait, natural smile.",
+      "source": "C:\\Users\\kisho\\.codex\\generated_images\\01a12091-b411-7882-85bf-fa611cf6dbdf\\exec-1034c77b-d360-42d4-8dea-bb372a362b97.png",
+      "destination": "assets/images/team-support.webp"
+    }
+  ]
+}

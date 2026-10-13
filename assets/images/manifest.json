@@ -1,0 +1,97 @@
+{
+  "clinic": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 164970
+  },
+  "about-lounge": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 334156
+  },
+  "about-team": {
+    "width": 1672,
+    "height": 941,
+    "bytes": 112504
+  },
+  "services-sculpture": {
+    "width": 1122,
+    "height": 1402,
+    "bytes": 84502
+  },
+  "blog-still-life": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 209406
+  },
+  "contact-entry": {
+    "width": 1024,
+    "height": 1536,
+    "bytes": 210242
+  },
+  "login-portrait": {
+    "width": 1024,
+    "height": 1536,
+    "bytes": 120400
+  },
+  "signup-family": {
+    "width": 1024,
+    "height": 1536,
+    "bytes": 121282
+  },
+  "consultation": {
+    "width": 1536,
+    "height": 1024,
+    "bytes": 117310
+  },
+  "journal-hero": {
+    "width": 1400,
+    "height": 1050,
+    "bytes": 108740
+  },
+  "journal-arrival": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 85908
+  },
+  "journal-questions": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 111502
+  },
+  "journal-comfort": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 88110
+  },
+  "journal-plan": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 71374
+  },
+  "journal-family": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 93664
+  },
+  "journal-smile": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 82266
+  },
+  "team-clinical": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 54044
+  },
+  "team-coordinator": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 77362
+  },
+  "team-support": {
+    "width": 1000,
+    "height": 750,
+    "bytes": 70408
+  }
+}

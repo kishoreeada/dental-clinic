@@ -1,0 +1,1 @@
+{"name":"stackly-dental-clinic","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","start":"node scripts/server.mjs","check":"node scripts/check.mjs"}}
